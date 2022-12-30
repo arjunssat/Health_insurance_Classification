@@ -1,4 +1,4 @@
-# Health_insurance_Classifiaction
+# Health_insurance_Classification
 
 The data has been evaluated on based on its parameters such as age,spouse,accomodation type's,existing health indication's,Existing Holding policy.
 The data is scrapped accordingly and several modification's and encoding are performed to make the model ready for classification testing.
